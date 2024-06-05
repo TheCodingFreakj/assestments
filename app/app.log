@@ -1,0 +1,715 @@
+2024-06-05 15:49:05,788 - employees_logger - INFO - Employee creation initiated
+2024-06-05 15:49:05,855 - employees_logger - INFO - Employee created successfully
+2024-06-05 15:55:04,195 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 15:55:11,312 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 15:55:15,465 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 16:04:21,977 - employees_logger - INFO - Employee updates initiated
+2024-06-05 16:04:21,977 - employees_logger - ERROR - Missing key in JSON data: 'dept'
+2024-06-05 16:05:01,505 - employees_logger - INFO - Employee updates initiated
+2024-06-05 16:05:01,517 - employees_logger - INFO - Employee updated successfully
+2024-06-05 16:08:37,565 - employees_logger - INFO - Employee deletes initiated
+2024-06-05 16:08:37,577 - employees_logger - INFO - Employee deleted successfully
+2024-06-05 16:09:59,783 - employees_logger - INFO - Employee updates initiated
+2024-06-05 16:09:59,784 - employees_logger - ERROR - Failed to update employee: 400 Bad Request: Failed to decode JSON object: Expecting value: line 5 column 1 (char 4)
+2024-06-05 16:10:31,502 - employees_logger - INFO - {'employee': <Employee 2>}
+2024-06-05 16:10:31,502 - employees_logger - INFO - Employee deletes initiated
+2024-06-05 16:10:31,518 - employees_logger - INFO - Employee deleted successfully
+2024-06-05 16:19:59,369 - employees_logger - INFO - Employee creation initiated
+2024-06-05 16:19:59,439 - employees_logger - INFO - Employee created successfully
+2024-06-05 16:20:11,061 - employees_logger - INFO - Employee creation initiated
+2024-06-05 16:20:11,072 - employees_logger - INFO - Employee created successfully
+2024-06-05 16:22:03,493 - employees_logger - INFO - {'employee': <Employee 5>}
+2024-06-05 16:23:51,735 - employees_logger - INFO - {'employee----->': None}
+2024-06-05 19:04:10,526 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:04:10,526 - employees_logger - INFO - Employee created successfully
+2024-06-05 19:41:01,816 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:41:01,816 - employees_logger - INFO - Employee created successfully
+2024-06-05 19:41:33,958 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:41:33,974 - employees_logger - INFO - Employee created successfully
+2024-06-05 19:42:08,297 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:42:08,379 - employees_logger - INFO - Employee created successfully
+2024-06-05 19:43:14,772 - employees_logger - INFO - {'employee': None}
+2024-06-05 19:43:34,822 - employees_logger - INFO - {'employee': <Employee 3>}
+2024-06-05 19:43:34,822 - employees_logger - INFO - Employee deletes initiated
+2024-06-05 19:43:34,822 - employees_logger - INFO - Employee deleted successfully
+2024-06-05 19:43:50,374 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:43:50,374 - employees_logger - INFO - Employee created successfully
+2024-06-05 19:45:00,280 - employees_logger - INFO - Employee updates initiated
+2024-06-05 19:45:00,280 - employees_logger - INFO - Employee updated successfully
+2024-06-05 19:45:38,573 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:45:38,573 - employees_logger - INFO - Employee created successfully
+2024-06-05 19:45:38,588 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 19:45:38,588 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 19:46:04,216 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:46:04,232 - employees_logger - INFO - Employee created successfully
+2024-06-05 19:46:04,232 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 19:46:04,248 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 19:48:04,877 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:48:04,877 - employees_logger - INFO - Employee created successfully
+2024-06-05 19:48:04,877 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 19:48:04,893 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 19:48:52,772 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:48:52,772 - employees_logger - INFO - Employee created successfully
+2024-06-05 19:48:52,786 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 19:48:52,786 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 19:49:09,729 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:49:09,729 - employees_logger - INFO - Employee created successfully
+2024-06-05 19:49:09,729 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 19:49:09,745 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 19:49:09,855 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:49:09,855 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Mock Integrity Error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 19:49:09,933 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:49:09,933 - employees_logger - ERROR - Failed to create employee: Mock Unexpected Error
+2024-06-05 19:49:36,935 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:49:36,935 - employees_logger - INFO - Employee created successfully
+2024-06-05 19:49:36,949 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 19:49:36,949 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 19:49:37,075 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:49:37,075 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Mock Integrity Error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 19:49:37,138 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:49:37,138 - employees_logger - ERROR - Failed to create employee: Mock Unexpected Error
+2024-06-05 19:50:03,447 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:50:03,447 - employees_logger - INFO - Employee created successfully
+2024-06-05 19:50:03,447 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 19:50:03,462 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 19:50:03,589 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:50:03,589 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Mock Integrity Error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 19:50:03,650 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:50:03,650 - employees_logger - ERROR - Failed to create employee: Mock Unexpected Error
+2024-06-05 19:54:43,371 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:54:43,371 - employees_logger - INFO - Employee created successfully
+2024-06-05 19:54:43,371 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 19:54:43,387 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 19:54:43,496 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:54:43,496 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Mock Integrity Error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 19:54:43,559 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:54:43,559 - employees_logger - ERROR - Failed to create employee: Mock Unexpected Error
+2024-06-05 19:55:08,003 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:55:08,003 - employees_logger - INFO - Employee created successfully
+2024-06-05 19:55:08,018 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 19:55:08,018 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 19:55:08,127 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:55:08,127 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Mock Integrity Error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 19:55:08,205 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:55:08,205 - employees_logger - ERROR - Failed to create employee: Mock Unexpected Error
+2024-06-05 19:55:30,051 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:55:30,051 - employees_logger - INFO - Employee created successfully
+2024-06-05 19:55:30,051 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 19:55:30,068 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 19:55:30,177 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:55:30,177 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Mock Integrity Error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 19:55:30,256 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:55:30,256 - employees_logger - ERROR - Failed to create employee: Mock Unexpected Error
+2024-06-05 19:55:56,467 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:55:56,467 - employees_logger - INFO - Employee created successfully
+2024-06-05 19:55:56,467 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 19:55:56,483 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 19:55:56,609 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:55:56,609 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 19:55:56,672 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:55:56,672 - employees_logger - ERROR - Failed to create employee: Mock Unexpected Error
+2024-06-05 19:57:19,142 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:57:19,142 - employees_logger - INFO - Employee created successfully
+2024-06-05 19:57:19,142 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 19:57:19,158 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 19:57:19,284 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:57:19,284 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 19:57:19,375 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:57:19,376 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 19:57:35,163 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:57:35,179 - employees_logger - INFO - Employee created successfully
+2024-06-05 19:57:35,179 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 19:57:35,179 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 19:57:35,320 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:57:35,320 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 19:57:35,320 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:57:35,320 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 19:58:53,521 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:58:53,521 - employees_logger - INFO - Employee created successfully
+2024-06-05 19:58:53,521 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 19:58:53,535 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 19:58:53,661 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:58:53,661 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 19:58:53,661 - employees_logger - INFO - Employee creation initiated
+2024-06-05 19:58:53,661 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:00:53,750 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:00:53,750 - employees_logger - INFO - Employee created successfully
+2024-06-05 20:00:53,764 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 20:00:53,764 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 20:00:53,890 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:00:53,890 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:00:53,906 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:00:53,906 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:00:53,906 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:00:53,906 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:03:16,540 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:03:16,540 - employees_logger - INFO - Employee created successfully
+2024-06-05 20:03:16,556 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 20:03:16,556 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 20:03:16,682 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:03:16,682 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:03:16,697 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:03:16,697 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:03:16,697 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:03:16,713 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:03:55,950 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:03:55,950 - employees_logger - INFO - Employee created successfully
+2024-06-05 20:03:55,967 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 20:03:55,967 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 20:03:56,107 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:03:56,107 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:03:56,107 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:03:56,107 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:03:56,123 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:03:56,123 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:05:29,303 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:05:29,303 - employees_logger - INFO - Employee created successfully
+2024-06-05 20:05:29,303 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 20:05:29,303 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 20:05:29,430 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:05:29,430 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:05:29,448 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:05:29,448 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:05:29,462 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:05:29,462 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:05:48,800 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:05:48,800 - employees_logger - INFO - Employee created successfully
+2024-06-05 20:05:48,800 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 20:05:48,816 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 20:05:48,943 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:05:48,943 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:05:48,943 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:05:48,943 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:05:48,958 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:05:48,958 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:05:59,793 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:05:59,793 - employees_logger - INFO - Employee created successfully
+2024-06-05 20:05:59,811 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 20:05:59,811 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 20:05:59,966 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:05:59,966 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:05:59,966 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:05:59,966 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:05:59,982 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:05:59,982 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:07:12,323 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:07:12,323 - employees_logger - INFO - Employee created successfully
+2024-06-05 20:07:12,323 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 20:07:12,339 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 20:07:12,501 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:07:12,501 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:07:12,513 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:07:12,514 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:07:12,527 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:07:12,527 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:07:57,666 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:07:57,666 - employees_logger - INFO - Employee created successfully
+2024-06-05 20:07:57,681 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 20:07:57,681 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 20:07:57,821 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:07:57,821 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:07:57,821 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:07:57,821 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:07:57,838 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:07:57,838 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:08:21,007 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:08:21,007 - employees_logger - INFO - Employee created successfully
+2024-06-05 20:08:21,007 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 20:08:21,022 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 20:08:21,148 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:08:21,148 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:08:21,148 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:08:21,163 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:08:21,163 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:08:21,163 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:08:38,923 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:08:38,923 - employees_logger - INFO - Employee created successfully
+2024-06-05 20:08:38,939 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 20:08:38,939 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 20:08:39,064 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:08:39,064 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:08:39,080 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:08:39,080 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:08:39,080 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:08:39,080 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:08:52,416 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:08:52,416 - employees_logger - INFO - Employee created successfully
+2024-06-05 20:08:52,432 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 20:08:52,433 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 20:08:52,557 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:08:52,557 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:08:52,573 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:08:52,573 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:08:52,573 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:08:52,573 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:09:51,960 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:09:51,960 - employees_logger - INFO - Employee created successfully
+2024-06-05 20:09:51,960 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 20:09:51,976 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 20:09:52,086 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:09:52,086 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:09:52,102 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:09:52,102 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:09:52,118 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:09:52,118 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:11:16,054 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:11:16,054 - employees_logger - INFO - Employee created successfully
+2024-06-05 20:11:16,070 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 20:11:16,070 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 20:11:16,195 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:11:16,195 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:11:16,211 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:11:16,211 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:11:16,227 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:11:16,227 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:12:06,292 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:12:06,292 - employees_logger - INFO - Employee created successfully
+2024-06-05 20:12:06,308 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 20:12:06,311 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 20:12:06,448 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:12:06,448 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:12:06,463 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:12:06,463 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:12:06,463 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:12:06,463 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:12:41,178 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:12:41,178 - employees_logger - INFO - Employee created successfully
+2024-06-05 20:12:41,194 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 20:12:41,194 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 20:12:41,319 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:12:41,319 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:12:41,335 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:12:41,335 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:12:41,351 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:12:41,351 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:14:13,356 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:14:13,356 - employees_logger - INFO - Employee created successfully
+2024-06-05 20:14:13,372 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 20:14:13,372 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 20:14:13,496 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:14:13,496 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:14:13,512 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:14:13,512 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:14:13,512 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:14:13,528 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:15:19,645 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:15:19,645 - employees_logger - INFO - Employee created successfully
+2024-06-05 20:15:19,661 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 20:15:19,661 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 20:15:19,802 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:15:19,802 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:15:19,802 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:15:19,802 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:15:19,818 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:15:19,818 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:15:19,834 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:15:19,834 - employees_logger - ERROR - Missing key in JSON data: 'name'
+2024-06-05 20:15:19,934 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:15:19,935 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:15:39,578 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:15:39,578 - employees_logger - INFO - Employee created successfully
+2024-06-05 20:15:39,578 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 20:15:39,593 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 20:15:39,719 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:15:39,719 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:15:39,719 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:15:39,719 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:15:39,735 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:15:39,735 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:15:39,751 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:15:39,751 - employees_logger - ERROR - Missing key in JSON data: 'name'
+2024-06-05 20:15:39,766 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:15:39,766 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:16:09,442 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:16:09,442 - employees_logger - INFO - Employee created successfully
+2024-06-05 20:16:09,442 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 20:16:09,458 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 20:16:09,568 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:16:09,568 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:16:09,584 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:16:09,584 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:16:09,599 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:16:09,601 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:16:09,615 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:16:09,615 - employees_logger - ERROR - Missing key in JSON data: 'name'
+2024-06-05 20:16:09,615 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:16:09,615 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:16:46,954 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:16:46,954 - employees_logger - INFO - Employee created successfully
+2024-06-05 20:16:46,969 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 20:16:46,969 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 20:16:47,094 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:16:47,110 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:16:47,110 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:16:47,110 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:16:47,125 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:16:47,125 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:16:47,141 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:16:47,141 - employees_logger - ERROR - Missing key in JSON data: 'name'
+2024-06-05 20:16:47,141 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:16:47,157 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:17:14,338 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:17:14,338 - employees_logger - INFO - Employee created successfully
+2024-06-05 20:17:14,354 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 20:17:14,354 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 20:17:14,495 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:17:14,495 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:17:14,495 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:17:14,495 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:17:14,514 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:17:14,516 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:17:14,535 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:17:14,535 - employees_logger - ERROR - Missing key in JSON data: 'name'
+2024-06-05 20:18:11,722 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:18:11,722 - employees_logger - INFO - Employee created successfully
+2024-06-05 20:18:11,738 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 20:18:11,738 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 20:18:11,848 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:18:11,848 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:18:11,864 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:18:11,864 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:18:11,882 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:18:11,884 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:18:11,899 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:18:11,899 - employees_logger - ERROR - Missing key in JSON data: 'name'
+2024-06-05 20:18:26,455 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:18:26,455 - employees_logger - INFO - Employee created successfully
+2024-06-05 20:18:26,471 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 20:18:26,471 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 20:18:26,644 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:18:26,645 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:18:26,655 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:18:26,656 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:18:26,672 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:18:26,674 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:18:26,692 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:18:26,692 - employees_logger - ERROR - Missing key in JSON data: 'name'
+2024-06-05 20:19:01,696 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:19:01,696 - employees_logger - INFO - Employee created successfully
+2024-06-05 20:19:01,696 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 20:19:01,711 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 20:19:01,838 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:19:01,838 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:19:01,838 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:19:01,838 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:19:01,853 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:19:01,853 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:19:01,869 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:19:01,869 - employees_logger - ERROR - Missing key in JSON data: 'name'
+2024-06-05 20:19:25,979 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:19:25,979 - employees_logger - INFO - Employee created successfully
+2024-06-05 20:19:25,986 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 20:19:25,996 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 20:19:26,128 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:19:26,128 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:19:26,144 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:19:26,144 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:19:26,144 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:19:26,144 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:19:26,160 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:19:26,160 - employees_logger - ERROR - Missing key in JSON data: 'name'
+2024-06-05 20:20:35,090 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:20:35,090 - employees_logger - INFO - Employee created successfully
+2024-06-05 20:20:35,090 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 20:20:35,106 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 20:20:35,231 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:20:35,231 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:20:35,247 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:20:35,247 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:20:35,247 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:20:35,247 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:20:35,262 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:20:35,262 - employees_logger - ERROR - Missing key in JSON data: 'name'
+2024-06-05 20:21:03,967 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:21:03,967 - employees_logger - INFO - Employee created successfully
+2024-06-05 20:21:03,967 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 20:21:03,982 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 20:21:04,108 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:21:04,108 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:21:04,124 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:21:04,124 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:21:04,124 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:21:04,124 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:21:04,140 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:21:04,140 - employees_logger - ERROR - Missing key in JSON data: 'name'
+2024-06-05 20:21:35,290 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:21:35,290 - employees_logger - INFO - Employee created successfully
+2024-06-05 20:21:35,290 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 20:21:35,307 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 20:21:35,431 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:21:35,431 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:21:35,431 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:21:35,431 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:21:35,459 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:21:35,461 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:21:35,475 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:21:35,475 - employees_logger - ERROR - Missing key in JSON data: 'name'
+2024-06-05 20:21:35,489 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:21:35,489 - employees_logger - ERROR - Failed to update employee: (builtins.NoneType) None
+[SQL: Mock Integrity Error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:21:54,150 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:21:54,165 - employees_logger - INFO - Employee created successfully
+2024-06-05 20:21:54,165 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 20:21:54,165 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 20:21:54,306 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:21:54,306 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:21:54,306 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:21:54,306 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:21:54,321 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:21:54,321 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:21:54,337 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:21:54,337 - employees_logger - ERROR - Missing key in JSON data: 'name'
+2024-06-05 20:21:54,353 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:21:54,353 - employees_logger - ERROR - Failed to update employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:22:11,710 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:22:11,710 - employees_logger - INFO - Employee created successfully
+2024-06-05 20:22:11,726 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 20:22:11,726 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 20:22:11,852 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:22:11,852 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:22:11,867 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:22:11,867 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:22:11,883 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:22:11,883 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:22:11,898 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:22:11,898 - employees_logger - ERROR - Missing key in JSON data: 'name'
+2024-06-05 20:22:11,898 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:22:11,898 - employees_logger - ERROR - Failed to update employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:23:45,270 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:23:45,270 - employees_logger - INFO - Employee created successfully
+2024-06-05 20:23:45,270 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 20:23:45,285 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 20:23:45,411 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:23:45,411 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:23:45,427 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:23:45,427 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:23:45,427 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:23:45,427 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:23:45,444 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:23:45,459 - employees_logger - ERROR - Missing key in JSON data: 'name'
+2024-06-05 20:23:45,459 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:23:45,459 - employees_logger - ERROR - Failed to update employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:24:00,851 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:24:00,851 - employees_logger - INFO - Employee created successfully
+2024-06-05 20:24:00,865 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 20:24:00,865 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 20:24:01,006 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:24:01,006 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:24:01,006 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:24:01,006 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:24:01,022 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:24:01,022 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:24:01,038 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:24:01,038 - employees_logger - ERROR - Missing key in JSON data: 'name'
+2024-06-05 20:24:01,053 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:24:01,053 - employees_logger - ERROR - Failed to update employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:24:53,436 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:24:53,436 - employees_logger - INFO - Employee created successfully
+2024-06-05 20:24:53,436 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 20:24:53,452 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 20:24:53,585 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:24:53,585 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:24:53,599 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:24:53,599 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:24:53,609 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:24:53,609 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:24:53,625 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:24:53,625 - employees_logger - ERROR - Missing key in JSON data: 'name'
+2024-06-05 20:24:53,625 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:24:53,625 - employees_logger - ERROR - Failed to update employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:30:35,728 - employees_logger - INFO - {'employees paginated----->': <flask_sqlalchemy.pagination.QueryPagination object at 0x000001E2F1466510>}
+2024-06-05 20:34:08,253 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:34:08,253 - employees_logger - INFO - Employee created successfully
+2024-06-05 20:34:08,253 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 20:34:08,268 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 20:34:08,395 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:34:08,395 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:34:08,412 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:34:08,412 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:34:08,422 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:34:08,422 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:34:08,427 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:34:08,442 - employees_logger - ERROR - Missing key in JSON data: 'name'
+2024-06-05 20:34:08,442 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:34:08,442 - employees_logger - ERROR - Failed to update employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:34:08,459 - employees_logger - INFO - {'employee': <Employee 1>}
+2024-06-05 20:34:08,459 - employees_logger - INFO - Employee deletes initiated
+2024-06-05 20:34:08,459 - employees_logger - INFO - Employee deleted successfully
+2024-06-05 20:34:08,459 - employees_logger - INFO - {'employee': None}
+2024-06-05 20:34:08,474 - employees_logger - INFO - {'employee': None}
+2024-06-05 20:34:08,564 - employees_logger - INFO - {'employee': None}
+2024-06-05 20:34:56,121 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:34:56,121 - employees_logger - INFO - Employee created successfully
+2024-06-05 20:34:56,138 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 20:34:56,138 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 20:34:56,263 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:34:56,263 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:34:56,264 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:34:56,264 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:34:56,279 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:34:56,279 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:34:56,295 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:34:56,295 - employees_logger - ERROR - Missing key in JSON data: 'name'
+2024-06-05 20:34:56,310 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:34:56,310 - employees_logger - ERROR - Failed to update employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:34:56,310 - employees_logger - INFO - {'employee': <Employee 1>}
+2024-06-05 20:34:56,310 - employees_logger - INFO - Employee deletes initiated
+2024-06-05 20:34:56,310 - employees_logger - INFO - Employee deleted successfully
+2024-06-05 20:34:56,326 - employees_logger - INFO - {'employee': None}
+2024-06-05 20:34:56,326 - employees_logger - INFO - {'employee': <Employee 1>}
+2024-06-05 20:34:56,326 - employees_logger - INFO - Employee deletes initiated
+2024-06-05 20:34:56,326 - employees_logger - INFO - Employee deleted successfully
+2024-06-05 20:34:56,405 - employees_logger - INFO - {'employee': <Employee 1>}
+2024-06-05 20:34:56,405 - employees_logger - INFO - Employee deletes initiated
+2024-06-05 20:34:56,405 - employees_logger - INFO - Employee deleted successfully
+2024-06-05 20:35:32,391 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:35:32,393 - employees_logger - INFO - Employee created successfully
+2024-06-05 20:35:32,403 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 20:35:32,412 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 20:35:32,520 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:35:32,520 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:35:32,536 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:35:32,536 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:35:32,536 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:35:32,536 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:35:32,551 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:35:32,551 - employees_logger - ERROR - Missing key in JSON data: 'name'
+2024-06-05 20:35:32,567 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:35:32,567 - employees_logger - ERROR - Failed to update employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:35:32,582 - employees_logger - INFO - {'employee': <Employee 1>}
+2024-06-05 20:35:32,582 - employees_logger - INFO - Employee deletes initiated
+2024-06-05 20:35:32,582 - employees_logger - INFO - Employee deleted successfully
+2024-06-05 20:35:32,582 - employees_logger - INFO - {'employee': None}
+2024-06-05 20:35:32,598 - employees_logger - INFO - {'employee': None}
+2024-06-05 20:35:32,661 - employees_logger - INFO - {'employee': None}
+2024-06-05 20:36:31,018 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:36:31,018 - employees_logger - INFO - Employee created successfully
+2024-06-05 20:36:31,018 - employees_logger - ERROR - Missing required fields: name, age, or dept
+2024-06-05 20:36:31,033 - employees_logger - ERROR - Age should be a positive integer
+2024-06-05 20:36:31,159 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:36:31,159 - employees_logger - ERROR - Failed to create employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:36:31,174 - employees_logger - INFO - Employee creation initiated
+2024-06-05 20:36:31,174 - employees_logger - ERROR - Failed to create employee: Failed to create employee
+2024-06-05 20:36:31,174 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:36:31,190 - employees_logger - INFO - Employee updated successfully
+2024-06-05 20:36:31,206 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:36:31,206 - employees_logger - ERROR - Missing key in JSON data: 'name'
+2024-06-05 20:36:31,206 - employees_logger - INFO - Employee updates initiated
+2024-06-05 20:36:31,206 - employees_logger - ERROR - Failed to update employee: (builtins.NoneType) None
+[SQL: Database integrity error]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-05 20:36:31,221 - employees_logger - INFO - {'employee': <Employee 1>}
+2024-06-05 20:36:31,221 - employees_logger - INFO - Employee deletes initiated
+2024-06-05 20:36:31,221 - employees_logger - INFO - Employee deleted successfully
+2024-06-05 20:36:31,221 - employees_logger - INFO - {'employee': None}
